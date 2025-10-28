@@ -1,0 +1,102 @@
+--- SPAM EMAIL 1 ---
+Subject: Congratulations! You've Won $1,000,000!
+
+Dear Winner,
+
+We are delighted to inform you that your email was randomly selected in our Global Prize Draw. You have won $1,000,000 USD. To claim your prize, reply with your full name, date of birth, phone number, and bank account details within 48 hours.
+
+Regards,
+WorldPrize Claims Department
+
+--- SPAM EMAIL 2 ---
+Subject: Urgent: Verify Your Bank Account Now
+
+Dear Customer,
+
+We noticed suspicious activity on your account. Please verify your information immediately to avoid suspension. Click the secure link below and enter your credentials:
+http://secure-bank-verify.example.com
+
+Thank you,
+Customer Security Team
+
+--- SPAM EMAIL 3 ---
+Subject: RE: Invoice #4921 (Overdue Payment)
+
+Dear Valued Vendor,
+
+Please find attached the updated invoice for overdue payment. Download the attachment and fill the payment form to avoid late fees. If you already paid, ignore this message.
+
+Attachment: invoice_4921.exe
+
+Thanks,
+Accounts Payable
+
+--- SPAM EMAIL 4 ---
+Subject: Work From Home — Earn $500/day (No Experience Needed)
+
+Hello,
+
+Tired of 9–5? Join our remote team and start earning $300–$500 per day. No skills required. Limited spots. Sign up now and receive your starter kit — shipping free!
+Apply here: http://quick-earn.example.com/signup
+
+Best,
+Remote Opportunities
+
+--- SPAM EMAIL 5 ---
+Subject: Your Package Is Waiting — Action Required
+
+Hello,
+
+We attempted to deliver a package but couldn't complete delivery due to an address issue. Confirm your address now to reschedule delivery: http://track-parcel.example.com
+Provide tracking number: 1Z999AA10123456784
+
+Courier Services
+
+--- SPAM EMAIL 6 ---
+Subject: Investment Opportunity — Double Your Money in 30 Days
+
+Dear Investor,
+
+Exclusive opportunity: invest $2,000 today and receive $8,000 back in 30 days. Limited-time offer for select members only. Reply for wire instructions.
+
+Sincerely,
+Prime Capital Group
+
+--- SPAM EMAIL 7 ---
+Subject: Get Prescription Medicine Without a Doctor — Save 80%
+
+Hello,
+
+Buy generic prescription meds at wholesale prices — no prescription required. Fast, discreet shipping worldwide. Click to view catalog: http://cheap-pills.example.com
+Special code: SAVE80
+
+PharmCare
+
+--- SPAM EMAIL 8 ---
+Subject: Reconnect with an Old Friend — Dating App Invite
+
+Hey there,
+
+We think someone you knew has been looking for you. Create your free profile now and see who searched for you. Join the community and message them for free!
+Create account: http://find-old-friends.example.com
+
+Cheers,
+Reconnect Team
+
+--- SPAM EMAIL 9 ---
+Subject: Important: Update Your Email Storage (Free 2GB)
+
+Dear User,
+
+Your mailbox is at 98% capacity. To prevent message loss, you must upgrade your mailbox storage immediately. Click here to extend storage: http://mail-upgrade.example.com and sign in.
+
+Support Team
+
+--- SPAM EMAIL 10 ---
+Subject: Free Gift Card — Your $100 Amazon Voucher Inside
+
+Congratulations! We are giving away a $100 Amazon gift card to the first 500 respondents. Click the link to redeem your voucher and complete a 30-second survey.
+Redeem: http://free-gift.example.com/redeem
+
+Promotions Team
+
